@@ -1,2 +1,2 @@
 # problems
-solving problems one language at a time
+For practice and review.
